@@ -1,0 +1,12 @@
+name: ScaryDiamonds
+version: 1.0.0
+authors: [FEST_Channel]
+
+description: Mobs can't spawn near powered diamond and netherite blocks. (Also mobs were avoiding diamond items previously)
+
+main: com.festp.Main
+
+commands:
+         scarydiamonds:
+           description: Allows to reload config, get plugin info.
+api-version: 1.14
